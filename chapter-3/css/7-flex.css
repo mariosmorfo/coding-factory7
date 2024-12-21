@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    height: 100px;
+    border: 1px solid black;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+      justify-content: space-evenly; /* dinei akribws ton idio xwro */
+     /* align-items: center; */  /* stixizei sto kentro tou box*/
+     align-items: start;
+ }

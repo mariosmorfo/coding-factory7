@@ -1,0 +1,31 @@
+img{
+    width: 600px;
+    height: auto;
+}
+
+ul > li {
+    color: red;
+}
+
+ul >li :first-child{
+    color: green;
+}
+
+ul > li:not(:first-child){
+    background-color: rgb(134, 21, 21);
+}
+
+h1 + p{
+    color: blue;
+}
+
+img ~ p{
+    background-color: green;
+}
+
+a::after {
+    content:'\1F604';
+}
+a::after {
+    content: '\1f609'
+}
