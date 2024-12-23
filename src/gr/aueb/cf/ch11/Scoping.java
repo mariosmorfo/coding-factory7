@@ -17,13 +17,5 @@ public class Scoping {
         return a + b;
     }
 
-    public static int div(int a, int b) {
-        int result = 0;
-
-        if(b == 0) {
-            boolean isZero = true;
-            System.out.println("Is zero: " + isZero);
-        }
-        return a /b;
     }
-}
+
