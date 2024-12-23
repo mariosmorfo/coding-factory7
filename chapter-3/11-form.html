@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/11.form.css">
+</head>
+
+<body>
+    <div class="container">
+        <form>
+            <h1>Φόρμα πληρωμής</h1>
+            <div aria-labelledby="personal">
+                <h2>Προσωπικά στοιχεία</h2>
+                <fieldset>
+                    <legend>Title</legend>
+                    <div>
+                        <input type="radio" id="titleMr" name="title" value="Mr">
+                        <label for="titleMr">Mr.</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="titleMs" name="title" value="Ms">
+                        <label for="title">Ms.</label>
+                    </div>
+                    <div>
+                        <input type="radio" id="titleDr" name="title" value="Dr">
+                        <label for="titleDr">Dr.</label>
+                    </div>
+                </fieldset>
+                <div>
+                    <label for="username">
+                        <span>Username:</span>
+                        <strong> <abbr title="Field is required">*</abbr></strong>
+                        <input type="text" id="username" name="username" required></label>
+                </div>
+                <div>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password">
+                </div>
+                <div aria-labelledby="payment-info">
+                    <h2>Πληροφορίες πληρωμής</h2>
+                    <div>
+                        <label for="cartype">Car</label>
+                        <select name="usercar" id="cartype">
+                            <option value="" selected disabled>Select car type:</option>
+                            <option value="visa">Visa</option>
+                            <option value="mastercard">Master Card</option>
+                            <option value="american express">American express</option>
+                        </select>
+                        <div>
+                            <label for="car number">Car Number:</label>
+                            <input type="text" name="car number" id="car number">
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <label for="expiration">Ημερομηνία λήξης</label>
+                    <input type="date" id="expiration" name="expiration" placeholder="MM/YY">
+                </div>
+                <div>
+                    <button type="submit">Υποβολή</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
