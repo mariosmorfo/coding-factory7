@@ -11,7 +11,7 @@ public class Point {
     }
 
     public Point(){
-        nOfPoints;
+        nOfPoints++;
     }
 
     public int getX() {
