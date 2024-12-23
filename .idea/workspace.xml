@@ -5,10 +5,159 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c88427-751c-44ad-bdba-441fceca3c03" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/StudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/StudentDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodingFactoryTestbed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFactoryTestbed.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch1/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch10/Armstrong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch10/ArrayAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch10/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch10/SimplyBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch10/StackApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch10/UpperLowerCaseApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch11/Scoping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch11/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch11/StudentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/BigIntApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/CounterApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/DateApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/DateTimeToSeconds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/DigitSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/EuroUsdConventer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/ExpressionsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/FrogJumpsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/HomeWorkIntApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/InApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/MathDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/MilesToKm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/PriceWithVat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/RandomApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/ScannerAddApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/TestHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/TypeCastDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch2/YearsToDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/FirstDigitFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/FrogJumpApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/GradesApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/HomeWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/IsEvenApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/LightsOnApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/MenuDoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/Mul10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/NumDenominator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/PowerCalculaton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SecretFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SecretFinderErrorHandling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SecretWhileFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/Sentinel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/Sentinel2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SnowingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SpecialWhileTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/Stars10App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/Sum10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SumMul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/SumOfEvens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/TankApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/TempApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch3/VoteEligible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/CharInApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/CharPrintApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/FlexibleFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/ForSumMulApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/PowerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/SpecialFor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/Stars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/SwitchCaseApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/SwitchCaseFallThrough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch4/UnicodeApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/AddApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/CalculatorApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/DivisionApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/EvenOddApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/FactorialRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/JOME.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/MenuApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/MethodOverLoading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/PowerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/PowerAppRecersive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/RightTriangleApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/SwapApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch5/TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArrayDeepCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArrayInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArrayMinAndMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArrayMinMax2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArrayReferenceCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArraySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArraySearchWithMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArraysAsCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ArraysInMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/CircularRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/JaggedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/ReplaceAppElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/SummetricAPP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/SwapApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch6/TwoDimArrayApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/IOStrApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/ImmutableStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/IndexOfSubStringApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/ParseIntApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/SplitStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StrBuilderApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StrCompareTwoApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StrConcatApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StrCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StrEquals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StrTraverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/StringInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch7/TraverseWithSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/Arithmetic1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/Arithmetic2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/ArithmeticExceptionApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/ExceptionsTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/FinallyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/IndexOutOFBoundsExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/MultipleExceptionApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/NullPointerExceptionApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/NumberFormatExceptionApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/SimpleBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/StateTestingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch8/TryWithResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/BfReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/BufferedReaderApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/FileApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/FileInOutApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/NamesScanning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/PdfBufferedCopyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/PdfCopyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/ch9/PrintStreamWithMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/Acces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/AddApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/CalculatorApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/ErrorHandlingApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/EvenApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/HourPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/InitialsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/MappedApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/MenuApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/PrintMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/PrintStars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/ReadNamesApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/SecondMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/SixDigitApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/StringExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/enCodeKeyApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingFactoryTestbed/gr/aueb/cf/homework/encodingApp.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,142 +202,142 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Application.Acces.executor": "Run",
-    "Application.AddApp.executor": "Run",
-    "Application.Arithmetic1.executor": "Run",
-    "Application.Arithmetic2.executor": "Run",
-    "Application.ArithmeticExceptionApp.executor": "Run",
-    "Application.Armstrong.executor": "Run",
-    "Application.ArrayAdd.executor": "Run",
-    "Application.ArrayDeepCopy.executor": "Run",
-    "Application.ArrayHello.executor": "Run",
-    "Application.ArrayMinAndMax.executor": "Run",
-    "Application.ArrayMinMax2.executor": "Run",
-    "Application.ArrayReferenceCopy.executor": "Run",
-    "Application.ArraySearch.executor": "Run",
-    "Application.ArraySearchWithMethod.executor": "Run",
-    "Application.ArraysInMethods.executor": "Run",
-    "Application.BfReader.executor": "Run",
-    "Application.BigIntApp.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.BufferedReaderApp.executor": "Run",
-    "Application.CalculatorApp.executor": "Run",
-    "Application.CharInApp.executor": "Run",
-    "Application.CharPrintApp.executor": "Run",
-    "Application.CounterApp.executor": "Run",
-    "Application.DateTimeToSeconds.executor": "Run",
-    "Application.DateTimeToSecondsConventer.executor": "Run",
-    "Application.DigitSum.executor": "Run",
-    "Application.DivisionApp.executor": "Run",
-    "Application.ErrorHandlingApp.executor": "Run",
-    "Application.EuroUsdConventer.executor": "Run",
-    "Application.EvenApp.executor": "Run",
-    "Application.ExpressionsApp.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.FactorialRecursive.executor": "Run",
-    "Application.FileApp.executor": "Run",
-    "Application.FileInOutApp.executor": "Run",
-    "Application.FirstDigitFinder.executor": "Run",
-    "Application.FlexibleFor.executor": "Run",
-    "Application.ForSumMulApp.executor": "Run",
-    "Application.FrogJumpApp.executor": "Run",
-    "Application.FrogJumpsApp.executor": "Run",
-    "Application.GradesApp.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.HomeWork.executor": "Run",
-    "Application.HomeWorkIntApp.executor": "Run",
-    "Application.HourPermission.executor": "Run",
-    "Application.IOStrApp.executor": "Run",
-    "Application.InApp.executor": "Run",
-    "Application.IndexOfSubStringApp.executor": "Run",
-    "Application.IndexOutOFBoundsExceptions.executor": "Run",
-    "Application.InitialsApp.executor": "Run",
-    "Application.IsEvenApp.executor": "Run",
-    "Application.JOME.executor": "Run",
-    "Application.JaggedArray.executor": "Run",
-    "Application.LightsOnApp.executor": "Run",
-    "Application.MappedApp.executor": "Run",
-    "Application.MathDemo.executor": "Run",
-    "Application.MenuApp.executor": "Run",
-    "Application.MenuDoWhile.executor": "Run",
-    "Application.MilesToKm.executor": "Run",
-    "Application.MinMax.executor": "Run",
-    "Application.Mul10.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.NamesScanning.executor": "Run",
-    "Application.NullPointerExceptionApp.executor": "Run",
-    "Application.NumDenominator.executor": "Run",
-    "Application.NumberFormatExceptionApp.executor": "Run",
-    "Application.ParseIntApp.executor": "Run",
-    "Application.PdfBufferedCopyApp.executor": "Run",
-    "Application.PdfCopyApp.executor": "Run",
-    "Application.PowerApp.executor": "Run",
-    "Application.PowerCalculaton.executor": "Run",
-    "Application.PriceWithVat.executor": "Run",
-    "Application.PrintApp.executor": "Run",
-    "Application.PrintMenu.executor": "Run",
-    "Application.PrintStars.executor": "Run",
-    "Application.PrintStreamWithMethod.executor": "Run",
-    "Application.RandomApp.executor": "Run",
-    "Application.ReadNamesApp.executor": "Run",
-    "Application.ReplaceAppElement.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.RightTriangleApp.executor": "Run",
-    "Application.ScannerAddApp.executor": "Run",
-    "Application.Search.executor": "Run",
-    "Application.SecondMin.executor": "Run",
-    "Application.SecretFinder.executor": "Run",
-    "Application.SecretFinderErrorHandling.executor": "Run",
-    "Application.SecretWhileFinder.executor": "Run",
-    "Application.Sentinel.executor": "Run",
-    "Application.Sentinel2.executor": "Run",
-    "Application.SixDigitApp.executor": "Run",
-    "Application.SnowingApp.executor": "Run",
-    "Application.SpecialFor.executor": "Run",
-    "Application.SpecialWhileTypes.executor": "Run",
-    "Application.SplitStr.executor": "Run",
-    "Application.StackApp.executor": "Run",
-    "Application.Stars.executor": "Run",
-    "Application.Stars10App.executor": "Run",
-    "Application.StateTestingApp.executor": "Run",
-    "Application.StrBuilderApp.executor": "Run",
-    "Application.StrCompareTwoApp.executor": "Run",
-    "Application.StrTraverse.executor": "Run",
-    "Application.StringExample.executor": "Run",
-    "Application.StringInit.executor": "Run",
-    "Application.StudentDemo.executor": "Run",
-    "Application.Sum10.executor": "Run",
-    "Application.SumMul.executor": "Run",
-    "Application.SumOfDigits.executor": "Run",
-    "Application.SwapApp.executor": "Run",
-    "Application.SwitchCaseApp.executor": "Run",
-    "Application.SwitchCaseFallThrough.executor": "Run",
-    "Application.TankApp.executor": "Run",
-    "Application.TempApp.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.TestHome.executor": "Run",
-    "Application.TraverseWithSubstring.executor": "Run",
-    "Application.TwoDimArrayApp.executor": "Run",
-    "Application.UnicodeApp.executor": "Run",
-    "Application.UpperLowerCaseApp.executor": "Run",
-    "Application.VoteEligible.executor": "Run",
-    "Application.YearsToDays.executor": "Run",
-    "Application.enCodeKeyApp.executor": "Run",
-    "Application.encodingApp.executor": "Run",
-    "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.Acces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arithmetic2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticExceptionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayAdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDeepCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayHello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayMinAndMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayMinMax2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayReferenceCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySearchWithMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysInMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BfReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BigIntApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedReaderApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharInApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharPrintApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTimeToSeconds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateTimeToSecondsConventer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivisionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ErrorHandlingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EuroUsdConventer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExpressionsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialRecursive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileInOutApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstDigitFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlexibleFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForSumMulApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrogJumpApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FrogJumpsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradesApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWorkIntApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HourPermission.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IOStrApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfSubStringApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOutOFBoundsExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitialsApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsEvenApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JOME.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JaggedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LightsOnApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MappedApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MenuDoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MilesToKm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mul10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NamesScanning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullPointerExceptionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumDenominator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberFormatExceptionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParseIntApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PdfBufferedCopyApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PdfCopyApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerCalculaton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PriceWithVat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintMenu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintStreamWithMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadNamesApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceAppElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightTriangleApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerAddApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretFinderErrorHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecretWhileFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sentinel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sentinel2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SixDigitApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SnowingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpecialFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpecialWhileTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitStr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stars10App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StateTestingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrBuilderApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrCompareTwoApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrTraverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringInit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumMul.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCaseApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwitchCaseFallThrough.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TankApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TempApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestHome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TraverseWithSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDimArrayApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnicodeApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpperLowerCaseApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VoteEligible.executor&quot;: &quot;Run&quot;,
+    &quot;Application.YearsToDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.enCodeKeyApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.encodingApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gr.aueb.cf.ch6.SwapApp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="gr.aueb.cf.ch9" />
