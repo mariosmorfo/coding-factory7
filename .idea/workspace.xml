@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2c88427-751c-44ad-bdba-441fceca3c03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/cf/ch1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch1/HelloWorld.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;09051998&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mariosmorfo/coding-factory7.git&quot;,
+    &quot;accountId&quot;: &quot;abbb69d0-9269-4a5d-9883-c304b1e57a95&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/gr/aueb/cf/ch1/HelloWorld.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/gr/aueb/cf/ch4/SwitchCaseApp.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nmpPMghRXfydB5DM0yBE846IdU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.Acces.executor": "Run",
+    "Application.AddApp.executor": "Run",
+    "Application.Arithmetic1.executor": "Run",
+    "Application.Arithmetic2.executor": "Run",
+    "Application.ArithmeticExceptionApp.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.ArrayAdd.executor": "Run",
+    "Application.ArrayDeepCopy.executor": "Run",
+    "Application.ArrayHello.executor": "Run",
+    "Application.ArrayMinAndMax.executor": "Run",
+    "Application.ArrayMinMax2.executor": "Run",
+    "Application.ArrayReferenceCopy.executor": "Run",
+    "Application.ArraySearch.executor": "Run",
+    "Application.ArraySearchWithMethod.executor": "Run",
+    "Application.ArraysInMethods.executor": "Run",
+    "Application.BfReader.executor": "Run",
+    "Application.BigIntApp.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BufferedReaderApp.executor": "Run",
+    "Application.CalculatorApp.executor": "Run",
+    "Application.CharInApp.executor": "Run",
+    "Application.CharPrintApp.executor": "Run",
+    "Application.CounterApp.executor": "Run",
+    "Application.DateTimeToSeconds.executor": "Run",
+    "Application.DateTimeToSecondsConventer.executor": "Run",
+    "Application.DigitSum.executor": "Run",
+    "Application.DivisionApp.executor": "Run",
+    "Application.ErrorHandlingApp.executor": "Run",
+    "Application.EuroUsdConventer.executor": "Run",
+    "Application.EvenApp.executor": "Run",
+    "Application.ExpressionsApp.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialRecursive.executor": "Run",
+    "Application.FileApp.executor": "Run",
+    "Application.FileInOutApp.executor": "Run",
+    "Application.FirstDigitFinder.executor": "Run",
+    "Application.FlexibleFor.executor": "Run",
+    "Application.ForSumMulApp.executor": "Run",
+    "Application.FrogJumpApp.executor": "Run",
+    "Application.FrogJumpsApp.executor": "Run",
+    "Application.GradesApp.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HomeWork.executor": "Run",
+    "Application.HomeWorkIntApp.executor": "Run",
+    "Application.HourPermission.executor": "Run",
+    "Application.IOStrApp.executor": "Run",
+    "Application.InApp.executor": "Run",
+    "Application.IndexOfSubStringApp.executor": "Run",
+    "Application.IndexOutOFBoundsExceptions.executor": "Run",
+    "Application.InitialsApp.executor": "Run",
+    "Application.IsEvenApp.executor": "Run",
+    "Application.JOME.executor": "Run",
+    "Application.JaggedArray.executor": "Run",
+    "Application.LightsOnApp.executor": "Run",
+    "Application.MappedApp.executor": "Run",
+    "Application.MathDemo.executor": "Run",
+    "Application.MenuApp.executor": "Run",
+    "Application.MenuDoWhile.executor": "Run",
+    "Application.MilesToKm.executor": "Run",
+    "Application.MinMax.executor": "Run",
+    "Application.Mul10.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NamesScanning.executor": "Run",
+    "Application.NullPointerExceptionApp.executor": "Run",
+    "Application.NumDenominator.executor": "Run",
+    "Application.NumberFormatExceptionApp.executor": "Run",
+    "Application.ParseIntApp.executor": "Run",
+    "Application.PdfBufferedCopyApp.executor": "Run",
+    "Application.PdfCopyApp.executor": "Run",
+    "Application.PowerApp.executor": "Run",
+    "Application.PowerCalculaton.executor": "Run",
+    "Application.PriceWithVat.executor": "Run",
+    "Application.PrintApp.executor": "Run",
+    "Application.PrintMenu.executor": "Run",
+    "Application.PrintStars.executor": "Run",
+    "Application.PrintStreamWithMethod.executor": "Run",
+    "Application.RandomApp.executor": "Run",
+    "Application.ReadNamesApp.executor": "Run",
+    "Application.ReplaceAppElement.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.RightTriangleApp.executor": "Run",
+    "Application.ScannerAddApp.executor": "Run",
+    "Application.Search.executor": "Run",
+    "Application.SecondMin.executor": "Run",
+    "Application.SecretFinder.executor": "Run",
+    "Application.SecretFinderErrorHandling.executor": "Run",
+    "Application.SecretWhileFinder.executor": "Run",
+    "Application.Sentinel.executor": "Run",
+    "Application.Sentinel2.executor": "Run",
+    "Application.SixDigitApp.executor": "Run",
+    "Application.SnowingApp.executor": "Run",
+    "Application.SpecialFor.executor": "Run",
+    "Application.SpecialWhileTypes.executor": "Run",
+    "Application.SplitStr.executor": "Run",
+    "Application.StackApp.executor": "Run",
+    "Application.Stars.executor": "Run",
+    "Application.Stars10App.executor": "Run",
+    "Application.StateTestingApp.executor": "Run",
+    "Application.StrBuilderApp.executor": "Run",
+    "Application.StrCompareTwoApp.executor": "Run",
+    "Application.StrTraverse.executor": "Run",
+    "Application.StringExample.executor": "Run",
+    "Application.StringInit.executor": "Run",
+    "Application.Sum10.executor": "Run",
+    "Application.SumMul.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SwapApp.executor": "Run",
+    "Application.SwitchCaseApp.executor": "Run",
+    "Application.SwitchCaseFallThrough.executor": "Run",
+    "Application.TankApp.executor": "Run",
+    "Application.TempApp.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TestHome.executor": "Run",
+    "Application.TraverseWithSubstring.executor": "Run",
+    "Application.TwoDimArrayApp.executor": "Run",
+    "Application.UnicodeApp.executor": "Run",
+    "Application.UpperLowerCaseApp.executor": "Run",
+    "Application.VoteEligible.executor": "Run",
+    "Application.YearsToDays.executor": "Run",
+    "Application.enCodeKeyApp.executor": "Run",
+    "Application.encodingApp.executor": "Run",
+    "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gr.aueb.cf.ch9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Armstrong">
+    <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch10.Armstrong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.CalculatorApp" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErrorHandlingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.ErrorHandlingApp" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch1.HelloWorld" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperLowerCaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch10.UpperLowerCaseApp" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="false" />
+      <option name="INTERPRETER_PATH" value="$PROJECT_DIR$/../../../Git/bin/git.exe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.ErrorHandlingApp" />
+        <item itemvalue="Application.UpperLowerCaseApp" />
+        <item itemvalue="Application.CalculatorApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2c88427-751c-44ad-bdba-441fceca3c03" name="Changes" comment="" />
+      <created>1729588086442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729588086442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodingFactoryTestbed$HomeWork.ic" NAME="HomeWork Coverage Results" MODIFIED="1731155054433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>gr.aueb.cf.ch3.*</FILTER>
+    </SUITE>
+  </component>
+</project>
