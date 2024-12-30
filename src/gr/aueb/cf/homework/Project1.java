@@ -65,7 +65,7 @@ public class Project1 {
             }
 
         } catch (FileNotFoundException e) {
-            System.err.println("Το αρχείο δεν βρέθηκε.");
+            System.err.println("Το αρχείο δεν βρέθηκε." + e.getMessage());
         } catch (Exception e) {
             System.err.println("Σφάλμα κατά την ανάγνωση ή εγγραφή του αρχείου. " + e.getMessage());
         }
