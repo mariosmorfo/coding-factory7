@@ -15,6 +15,7 @@ public class Project3 {
 
         try (BufferedReader br = new BufferedReader(new FileReader("D:/project3read.txt"))) {
             int ch;
+
         while ((ch = br.read()) != -1){
             if(isLatinCharacter(ch)) {
                 addToGrid(grid, ch);
