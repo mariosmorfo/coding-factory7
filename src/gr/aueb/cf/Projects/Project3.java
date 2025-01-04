@@ -1,4 +1,4 @@
-package gr.aueb.cf.homework;
+package gr.aueb.cf.Projects;
 
 
 import java.io.BufferedReader;
@@ -42,7 +42,7 @@ public class Project3 {
             }
         }
     }
-
+guit
     private static void initializeGrid(int[][] grid) {
         for (int i = 0; i < grid.length; i++) {
             grid[i][0] = -1;
