@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch11.model;
+package gr.aueb.cf.ch12.model;
 
 public class Customer {
     private int id;

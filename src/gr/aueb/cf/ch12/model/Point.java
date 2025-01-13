@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch11.model;
+package gr.aueb.cf.ch12.model;
 
 public class Point {
     private static int nOfPoints = 0;

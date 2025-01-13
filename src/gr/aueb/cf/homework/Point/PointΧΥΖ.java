@@ -1,41 +1,42 @@
-package gr.aueb.cf.homework;
+package gr.aueb.cf.homework.Point;
 
 public class PointΧΥΖ {
-    int x;
-    int y;
-    int z;
 
-    public PointΧΥΖ() {
+    private double x;
+    private double y;
+    private double z;
+
+    public PointΧΥΖ(){
 
     }
 
-    public PointΧΥΖ(int x, int y, int z) {
+    public PointΧΥΖ(double x, double y, double z) {
         this.x = x;
         this.y = y;
         this.z = z;
     }
 
-    public int getX() {
+    public double getX() {
         return x;
     }
 
-    public void setX(int x) {
+    public void setX(double x) {
         this.x = x;
     }
 
-    public int getY() {
+    public double getY() {
         return y;
     }
 
-    public void setY(int y) {
+    public void setY(double y) {
         this.y = y;
     }
 
-    public int getZ() {
+    public double getZ() {
         return z;
     }
 
-    public void setZ(int z) {
+    public void setZ(double z) {
         this.z = z;
     }
 
@@ -44,19 +45,19 @@ public class PointΧΥΖ {
     }
 
     public double getXYDistance(){
-        return (x * x + y * y);
+        return Math.sqrt(x * x + y * y);
     }
 
     public double getYZDistance(){
-        return (y * y + z * z);
+        return Math.sqrt(y * y + z * z);
     }
 
     public double getXZDistance(){
-        return (x * x + z * z);
+        return Math.sqrt(x * x + z * z);
     }
 
     public double getXYZDistance(){
-        return (x * x + y * y + z * z);
+        return Math.sqrt(x * x + y * y + z * z);
     }
 
 }

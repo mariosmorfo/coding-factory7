@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch12;
+package gr.aueb.cf.ch13;
 /**
   *  Defines an {@link Account} class.
  */

@@ -1,20 +1,20 @@
 package gr.aueb.cf.ch12;
 
+import gr.aueb.cf.ch12.model.*;
+
 public class Main {
     public static void main(String[] args) {
-        Account account = new Account(1, "GR849", "Wonderland", "Alice", "S123", 1000.0);
-        try{
-           account.deposit(900);
-            System.out.println("The deposit was successful.");
+        Teacher teacher = new Teacher(1, "MARIOS", "MORFO");
+        User user = new User(1, "Kostas", "Ioannoy", "kost", "123", true);
+        Customer customer = new Customer(1,"Andrew", "Dimitriou", "4590459059", "6945832951", "West Attica", "Attica", "Athens", "Patission", "76" ,"10434" );
+        Point point = new Point(0, 10);
+        Order order = new Order(1, 5.5,"Meat", "Ordered");
 
-            account.withDraw("R123", 400);
 
-            account.withDraw("S123", 500);
-            System.out.println("The deposit was successful");
-
-            System.out.println("Balance: "+ account.getBalance());
-        }catch (Exception e) {
-            System.err.println(e.getMessage());
-        }
+        System.out.println("Teacher full name: "+ teacher.getFirstname() + "," + teacher.getLastname());
+        System.out.println("User username: "+user.getUsername());
+        System.out.println("Customer Vat: "+ customer.getVatRegistrationNo());
+        System.out.println("Order Timestamp: "+ order.getFormattedTimestamp());
+        System.out.printf("Point: %d, %d\n", point.getX(), point.getY());
     }
 }

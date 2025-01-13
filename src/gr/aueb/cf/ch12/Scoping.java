@@ -1,6 +1,4 @@
-package gr.aueb.cf.ch11;
-
-import java.sql.SQLOutput;
+package gr.aueb.cf.ch12;
 
 public class Scoping {
     static int result = 20;

@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch11.model;
+package gr.aueb.cf.ch12.model;
 
 public class Product {
     private long id;
