@@ -37,7 +37,7 @@ public class OverdraftAccount {
                     throw new IllegalArgumentException("The amount must not be bigger than the limit");
                 }
                 balance -= amount;
-                System.out.println("Amount: " + amount + "successfully draw" + "the new balance is: " + balance);
+                System.out.println("Amount: " + amount + " successfully draw" + "the new balance is: " + balance);
             }catch (IllegalArgumentException e) {
                 System.err.println(e.getMessage());
                 throw e;
@@ -50,6 +50,8 @@ public class OverdraftAccount {
                     throw new IllegalArgumentException("Overdraft limit must be a positive number");
                 }
                 this.overdraftLimit = limit;
+
+                System.out.println("The limit now is: "+ overdraftLimit);
             }catch (IllegalArgumentException e){
                 System.err.println(e.getMessage());
                 throw e;
