@@ -1,4 +1,9 @@
 package gr.aueb.cf.ch13;
+
+import gr.aueb.cf.ch13.exceptions.InsufficientBalanceException;
+import gr.aueb.cf.ch13.exceptions.NegativeAmountException;
+import gr.aueb.cf.ch13.exceptions.SsnNotValidException;
+
 /**
   *  Defines an {@link Account} class.
  */
@@ -81,14 +86,15 @@ public class Account {
      * @throws Exception
      */
 
-    public void deposit(double amount) throws Exception {
+    public void deposit(double amount) throws NegativeAmountException {
         try {
             if(amount < 0) {
-                throw new Exception("The amount must not be negative");
+//                throw new Exception("The amount must not be negative");
+                throw new NegativeAmountException(amount);
             }
             balance += amount;
             System.out.println("Amount: "+ amount + " successfully deposited");
-        }catch (Exception e) {
+        }catch (NegativeAmountException e) {
             System.err.println("Error. Amount " + amount + "can not be negative");
             //e.printStackTrace(); // Only for development
             throw e;
@@ -107,23 +113,26 @@ public class Account {
      *          the amount is negative.
      */
     
-        public void withDraw(String ssn, double amount) throws Exception {
+        public void withDraw(String ssn, double amount) throws SsnNotValidException, InsufficientBalanceException, NegativeAmountException {
             try{
                 if(!isSsnValid(ssn)) {
-                    throw new Exception("Ssn " + ssn + " is not valid");
+//                    throw new Exception("Ssn " + ssn + " is not valid");
+                    throw new SsnNotValidException(ssn);
                 }
                 
                 if(amount > balance) {
-                    throw new Exception("Insufficient balance "+ balance + " for amount" + amount);
+//                    throw new Exception (""Insufficient balance "+ balance + " for amount" + amount);
+                    throw new InsufficientBalanceException(balance, amount);
                 }
               
                 if(amount < 0) {
-                    throw new Exception("The amount must not be negative");
+//                    throw new Exception("The amount must not be negative");
+                    throw new NegativeAmountException(amount);
                 }
                 balance =- amount;
                 System.out.println("Amount: "+ amount + " successfully withdrawn");
             
-            }catch (Exception e) {
+            }catch (SsnNotValidException | InsufficientBalanceException | NegativeAmountException e) {
                 System.err.print("Error.");
                 //e.printStackTrace();
                 throw e;
