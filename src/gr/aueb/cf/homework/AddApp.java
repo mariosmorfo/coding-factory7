@@ -6,7 +6,7 @@ public class AddApp {
         int num1 = 5;
         int num2 = 12;
         int result = 0 ;
-        // Εντολεςgit
+
         result= num1 + num2;
 
         // Εκτύπωση αποτελέσματος
