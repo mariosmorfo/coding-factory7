@@ -22,6 +22,6 @@ public class Dog implements iSpeakable{
 
     @Override
     public void speak() {
-        System.out.println( name +"Says hello");
+        System.out.println( name +" Says hello");
     }
 }

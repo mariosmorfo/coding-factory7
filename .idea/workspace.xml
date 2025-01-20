@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c88427-751c-44ad-bdba-441fceca3c03" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/model/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/cf/ch11/model/Point.java" afterDir="false" />
-    </list>
+    <list default="true" id="d2c88427-751c-44ad-bdba-441fceca3c03" name="Changes" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +13,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -39,6 +36,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/gr/aueb/cf/ch1/HelloWorld.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/gr/aueb/cf/ch14/Employee.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/gr/aueb/cf/ch4/SwitchCaseApp.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -58,6 +56,7 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.Acces.executor": "Run",
     "Application.AddApp.executor": "Run",
+    "Application.AnimalMain.executor": "Run",
     "Application.Arithmetic1.executor": "Run",
     "Application.Arithmetic2.executor": "Run",
     "Application.ArithmeticExceptionApp.executor": "Run",
@@ -133,6 +132,8 @@
     "Application.PrintMenu.executor": "Run",
     "Application.PrintStars.executor": "Run",
     "Application.PrintStreamWithMethod.executor": "Run",
+    "Application.Project1.executor": "Debug",
+    "Application.Project3.executor": "Run",
     "Application.RandomApp.executor": "Run",
     "Application.ReadNamesApp.executor": "Run",
     "Application.ReplaceAppElement.executor": "Run",
@@ -179,7 +180,14 @@
     "Application.YearsToDays.executor": "Run",
     "Application.enCodeKeyApp.executor": "Run",
     "Application.encodingApp.executor": "Run",
+    "Application.gr.aueb.cf.ch12.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch14.Main.executor": "Debug",
+    "Application.gr.aueb.cf.ch15.Main.executor": "Run",
     "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
+    "Application.gr.aueb.cf.homework.MathHelper.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.Point.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.bankapp.model.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.model.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -187,21 +195,30 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="gr.aueb.cf.ch9" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.homework.logger" />
+      <recent name="gr.aueb.cf.ch13.exceptions" />
+      <recent name="gr.aueb.cf.ch14" />
+      <recent name="gr.aueb.cf.Projects" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.ch15" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Acces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.Acces" />
+  <component name="RunManager" selected="Application.gr.aueb.cf.ch16.function.Main">
+    <configuration name="AnimalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch14.AnimalMain" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.homework.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,38 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigIntApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch2.BigIntApp" />
-      <module name="CodingFactoryTestbed" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch1.HelloWorld" />
-      <module name="CodingFactoryTestbed" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch11.Main" />
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.logger.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch11.*" />
+          <option name="PATTERN" value="gr.aueb.cf.homework.logger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +253,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch11.StudentDemo" />
+    <configuration name="gr.aueb.cf.ch15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch15.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch11.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gr.aueb.cf.ch16.function.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch16.function.Main" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch16.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gr.aueb.cf.homework.MathHelper.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.MathHelper.Main" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.homework.MathHelper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gr.aueb.cf.ch16.function.Main" />
+        <item itemvalue="Application.gr.aueb.cf.ch15.Main" />
+        <item itemvalue="Application.gr.aueb.cf.homework.MathHelper.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StudentDemo" />
-        <item itemvalue="Application.Acces" />
-        <item itemvalue="Application.BigIntApp" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.AnimalMain" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734978546770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <option name="closed" value="true" />
+      <created>1734980570719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734980570719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
