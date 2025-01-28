@@ -52,159 +52,160 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Application.Acces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnimalMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arithmetic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticExceptionApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayAdd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDeepCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayHello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayMinAndMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayMinMax2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayReferenceCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraySearchWithMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraysInMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BfReader.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BigIntApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BufferedReaderApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatorApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharInApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharPrintApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CounterApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTimeToSeconds.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DateTimeToSecondsConventer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DigitSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DivisionApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ErrorHandlingApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EuroUsdConventer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExpressionsApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialRecursive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FileInOutApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstDigitFinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlexibleFor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForSumMulApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrogJumpApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FrogJumpsApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GradesApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HomeWorkIntApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HourPermission.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IOStrApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexOfSubStringApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IndexOutOFBoundsExceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InitialsApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IsEvenApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JOME.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JaggedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.KnightMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LightsOnApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MappedApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MathDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MenuApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MenuDoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MilesToKm.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mul10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NamesScanning.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullPointerExceptionApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumDenominator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NumberFormatExceptionApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParseIntApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PdfBufferedCopyApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PdfCopyApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowerCalculaton.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PriceWithVat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintMenu.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintStars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrintStreamWithMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Project1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Project3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RandomApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadNamesApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReplaceAppElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RightTriangleApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerAddApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondMin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecretFinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecretFinderErrorHandling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecretWhileFinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sentinel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sentinel2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SixDigitApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SnowingApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpecialFor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpecialWhileTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitStr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stars.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stars10App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StateTestingApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrBuilderApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrCompareTwoApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrTraverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringInit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumMul.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwapApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCaseApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCaseFallThrough.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TankApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TempApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestHome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TraverseWithSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoDimArrayApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnicodeApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UpperLowerCaseApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VoteEligible.executor&quot;: &quot;Run&quot;,
-    &quot;Application.YearsToDays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.enCodeKeyApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.encodingApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch12.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch14.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.gr.aueb.cf.ch14.model2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch15.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch16.default_static.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch16.function.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch17.clone.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch17.knight.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.ch6.SwapApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.homework.MathHelper.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.homework.Point.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.homework.bankapp.model.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gr.aueb.cf.homework.model.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed/src/gr/aueb/cf/ch16/skeletal2&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.Acces.executor": "Run",
+    "Application.AddApp.executor": "Run",
+    "Application.AnimalMain.executor": "Run",
+    "Application.Arithmetic1.executor": "Run",
+    "Application.Arithmetic2.executor": "Run",
+    "Application.ArithmeticExceptionApp.executor": "Run",
+    "Application.Armstrong.executor": "Run",
+    "Application.ArrayAdd.executor": "Run",
+    "Application.ArrayDeepCopy.executor": "Run",
+    "Application.ArrayHello.executor": "Run",
+    "Application.ArrayMinAndMax.executor": "Run",
+    "Application.ArrayMinMax2.executor": "Run",
+    "Application.ArrayReferenceCopy.executor": "Run",
+    "Application.ArraySearch.executor": "Run",
+    "Application.ArraySearchWithMethod.executor": "Run",
+    "Application.ArraysInMethods.executor": "Run",
+    "Application.BfReader.executor": "Run",
+    "Application.BigIntApp.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BufferedReaderApp.executor": "Run",
+    "Application.CalculatorApp.executor": "Run",
+    "Application.CharInApp.executor": "Run",
+    "Application.CharPrintApp.executor": "Run",
+    "Application.CounterApp.executor": "Run",
+    "Application.DateTimeToSeconds.executor": "Run",
+    "Application.DateTimeToSecondsConventer.executor": "Run",
+    "Application.DigitSum.executor": "Run",
+    "Application.DivisionApp.executor": "Run",
+    "Application.ErrorHandlingApp.executor": "Run",
+    "Application.EuroUsdConventer.executor": "Run",
+    "Application.EvenApp.executor": "Run",
+    "Application.ExpressionsApp.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialRecursive.executor": "Run",
+    "Application.FileApp.executor": "Run",
+    "Application.FileInOutApp.executor": "Run",
+    "Application.FirstDigitFinder.executor": "Run",
+    "Application.FlexibleFor.executor": "Run",
+    "Application.ForSumMulApp.executor": "Run",
+    "Application.FrogJumpApp.executor": "Run",
+    "Application.FrogJumpsApp.executor": "Run",
+    "Application.GradesApp.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.HomeWork.executor": "Run",
+    "Application.HomeWorkIntApp.executor": "Run",
+    "Application.HourPermission.executor": "Run",
+    "Application.IOStrApp.executor": "Run",
+    "Application.InApp.executor": "Run",
+    "Application.IndexOfSubStringApp.executor": "Run",
+    "Application.IndexOutOFBoundsExceptions.executor": "Run",
+    "Application.InitialsApp.executor": "Run",
+    "Application.IsEvenApp.executor": "Run",
+    "Application.JOME.executor": "Run",
+    "Application.JaggedArray.executor": "Run",
+    "Application.KnightMain.executor": "Run",
+    "Application.LightsOnApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.MappedApp.executor": "Run",
+    "Application.MathDemo.executor": "Run",
+    "Application.MenuApp.executor": "Run",
+    "Application.MenuDoWhile.executor": "Run",
+    "Application.MilesToKm.executor": "Run",
+    "Application.MinMax.executor": "Run",
+    "Application.Mul10.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NamesScanning.executor": "Run",
+    "Application.NullPointerExceptionApp.executor": "Run",
+    "Application.NumDenominator.executor": "Run",
+    "Application.NumberFormatExceptionApp.executor": "Run",
+    "Application.ParseIntApp.executor": "Run",
+    "Application.PdfBufferedCopyApp.executor": "Run",
+    "Application.PdfCopyApp.executor": "Run",
+    "Application.PowerApp.executor": "Run",
+    "Application.PowerCalculaton.executor": "Run",
+    "Application.PriceWithVat.executor": "Run",
+    "Application.PrintApp.executor": "Run",
+    "Application.PrintMenu.executor": "Run",
+    "Application.PrintStars.executor": "Run",
+    "Application.PrintStreamWithMethod.executor": "Run",
+    "Application.Project1.executor": "Debug",
+    "Application.Project3.executor": "Run",
+    "Application.RandomApp.executor": "Run",
+    "Application.ReadNamesApp.executor": "Run",
+    "Application.ReplaceAppElement.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.RightTriangleApp.executor": "Run",
+    "Application.ScannerAddApp.executor": "Run",
+    "Application.Search.executor": "Run",
+    "Application.SecondMin.executor": "Run",
+    "Application.SecretFinder.executor": "Run",
+    "Application.SecretFinderErrorHandling.executor": "Run",
+    "Application.SecretWhileFinder.executor": "Run",
+    "Application.Sentinel.executor": "Run",
+    "Application.Sentinel2.executor": "Run",
+    "Application.SixDigitApp.executor": "Run",
+    "Application.SnowingApp.executor": "Run",
+    "Application.SpecialFor.executor": "Run",
+    "Application.SpecialWhileTypes.executor": "Run",
+    "Application.SplitStr.executor": "Run",
+    "Application.StackApp.executor": "Run",
+    "Application.Stars.executor": "Run",
+    "Application.Stars10App.executor": "Run",
+    "Application.StateTestingApp.executor": "Run",
+    "Application.StrBuilderApp.executor": "Run",
+    "Application.StrCompareTwoApp.executor": "Run",
+    "Application.StrTraverse.executor": "Run",
+    "Application.StringExample.executor": "Run",
+    "Application.StringInit.executor": "Run",
+    "Application.StudentDemo.executor": "Run",
+    "Application.Sum10.executor": "Run",
+    "Application.SumMul.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SwapApp.executor": "Run",
+    "Application.SwitchCaseApp.executor": "Run",
+    "Application.SwitchCaseFallThrough.executor": "Run",
+    "Application.TankApp.executor": "Run",
+    "Application.TempApp.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TestHome.executor": "Run",
+    "Application.TraverseWithSubstring.executor": "Run",
+    "Application.TwoDimArrayApp.executor": "Run",
+    "Application.UnicodeApp.executor": "Run",
+    "Application.UpperLowerCaseApp.executor": "Run",
+    "Application.VoteEligible.executor": "Run",
+    "Application.YearsToDays.executor": "Run",
+    "Application.enCodeKeyApp.executor": "Run",
+    "Application.encodingApp.executor": "Run",
+    "Application.gr.aueb.cf.ch12.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch14.Main.executor": "Debug",
+    "Application.gr.aueb.cf.ch14.model2.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch15.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch16.default_static.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch16.function.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch17.clone.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch17.knight.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
+    "Application.gr.aueb.cf.homework.MathHelper.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.Point.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.bankapp.model.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.model.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.model_shape.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed/src/gr/aueb/cf/ch16/skeletal2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="gr.aueb.cf.ch9" />
@@ -222,7 +223,7 @@
       <recent name="gr.aueb.cf.ch15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gr.aueb.cf.ch17.clone.Main">
+  <component name="RunManager" selected="Application.gr.aueb.cf.homework.model_shape.Main">
     <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk21.0.5_11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -243,19 +244,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gr.aueb.cf.ch17.knight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch17.callbacks.Main" />
-      <module name="CodingFactoryTestbed" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch17.callbacks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,6 +290,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gr.aueb.cf.homework.model_shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.model_shape.Main" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.homework.model_shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -319,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gr.aueb.cf.homework.model_shape.Main" />
         <item itemvalue="Application.gr.aueb.cf.ch17.clone.Main" />
         <item itemvalue="Application.KnightMain" />
         <item itemvalue="Application.gr.aueb.cf.ch17.knight.Main" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
