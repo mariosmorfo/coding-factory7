@@ -3,7 +3,7 @@ package gr.aueb.cf.homework.model_shape;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Rectangle extends AbstractShape implements ITwoDimensional, Serializable {
+public class Rectangle extends AbstractShape implements ITwoDimensional, Serializable,Cloneable {
 
   private double width;
   private double height;
@@ -14,7 +14,12 @@ public class Rectangle extends AbstractShape implements ITwoDimensional, Seriali
 
   }
 
-  public Rectangle(Rectangle rectangle){
+    @Override
+    protected Rectangle clone() throws CloneNotSupportedException {
+        return (Rectangle) super.clone();
+    }
+
+    public Rectangle(Rectangle rectangle){
       this.width = rectangle.width;
       this.height = rectangle.height;
   }

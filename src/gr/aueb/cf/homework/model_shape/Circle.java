@@ -3,7 +3,7 @@ package gr.aueb.cf.homework.model_shape;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Circle extends AbstractShape implements ITwoDimensional, Serializable {
+public class Circle extends AbstractShape implements ITwoDimensional, Serializable, Cloneable {
 
     private double radius;
     private static final long serialVersionUID = 1L;
@@ -49,5 +49,10 @@ public class Circle extends AbstractShape implements ITwoDimensional, Serializab
     @Override
     public int hashCode() {
         return Objects.hashCode(getRadius());
+    }
+
+    @Override
+    protected Circle clone() throws CloneNotSupportedException {
+        return (Circle) super.clone();
     }
 }

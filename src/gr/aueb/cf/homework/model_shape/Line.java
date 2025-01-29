@@ -3,13 +3,18 @@ package gr.aueb.cf.homework.model_shape;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Line extends AbstractShape implements Serializable {
+public class Line extends AbstractShape implements Serializable, Cloneable {
 
     private double length;
     private static final long serialVersionUID= 3L;
 
     public Line(){
 
+    }
+
+    @Override
+    protected Line clone() throws CloneNotSupportedException {
+        return (Line) super.clone();
     }
 
     public Line(Line line){
