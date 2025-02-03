@@ -3,7 +3,7 @@ package gr.aueb.cf.homework.model_shape_2;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Rectangle extends AbstractShape implements IRectangle, ITwoDimensional,IShape, Serializable, Cloneable {
+public class Rectangle extends AbstractShape implements IRectangle, ITwoDimensional, IShape, Serializable, Cloneable {
 
     private double width;
     private double height;
