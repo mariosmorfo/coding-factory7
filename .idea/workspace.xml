@@ -86,6 +86,7 @@
     "Application.CounterApp.executor": "Run",
     "Application.DateTimeToSeconds.executor": "Run",
     "Application.DateTimeToSecondsConventer.executor": "Run",
+    "Application.DecMain.executor": "Run",
     "Application.DigitSum.executor": "Run",
     "Application.DivisionApp.executor": "Run",
     "Application.ErrorHandlingApp.executor": "Run",
@@ -119,6 +120,7 @@
     "Application.Main.executor": "Run",
     "Application.Main3.executor": "Run",
     "Application.MainGen.executor": "Run",
+    "Application.MainList.executor": "Run",
     "Application.MappedApp.executor": "Run",
     "Application.MathDemo.executor": "Run",
     "Application.MenuApp.executor": "Run",
@@ -198,6 +200,7 @@
     "Application.gr.aueb.cf.ch17.clone.Main.executor": "Run",
     "Application.gr.aueb.cf.ch17.knight.Main.executor": "Run",
     "Application.gr.aueb.cf.ch19.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch19.deq_queue.DecMain.executor": "Run",
     "Application.gr.aueb.cf.ch19.singly_Linked_List.Main.executor": "Run",
     "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
     "Application.gr.aueb.cf.homework.MathHelper.Main.executor": "Run",
@@ -228,10 +231,11 @@
       <recent name="gr.aueb.cf.Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.ch19.deq_queue" />
       <recent name="gr.aueb.cf.ch15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gr.aueb.cf.ch19.singly_Linked_List.Main">
+  <component name="RunManager" selected="Application.gr.aueb.cf.ch19.deq_queue.DecMain">
     <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk21.0.5_11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -246,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.model_shape_2.Main" />
+    <configuration name="DecMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.deq_stack.DecMain" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.homework.model_shape_2.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.deq_stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +276,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.ch19.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.Main" />
+    <configuration name="MainList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.lists.MainList" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gr.aueb.cf.ch19.deq_queue.DecMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.deq_queue.DecMain" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch19.deq_queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,19 +308,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gr.aueb.cf.ch19.singly_Linked_List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="gr.aueb.cf.homework.model_shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.model_shape.Main" />
-      <module name="CodingFactoryTestbed" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.homework.model_shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gr.aueb.cf.ch19.deq_queue.DecMain" />
+        <item itemvalue="Application.DecMain" />
+        <item itemvalue="Application.MainList" />
         <item itemvalue="Application.gr.aueb.cf.ch19.singly_Linked_List.Main" />
         <item itemvalue="Application.MainGen" />
-        <item itemvalue="Application.gr.aueb.cf.ch19.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.gr.aueb.cf.homework.model_shape.Main" />
       </list>
     </recent_temporary>
   </component>
