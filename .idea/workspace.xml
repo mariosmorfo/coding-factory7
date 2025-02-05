@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -76,6 +76,7 @@
     "Application.ArraySearch.executor": "Run",
     "Application.ArraySearchWithMethod.executor": "Run",
     "Application.ArraysInMethods.executor": "Run",
+    "Application.BagOfCoins.executor": "Run",
     "Application.BfReader.executor": "Run",
     "Application.BigIntApp.executor": "Run",
     "Application.BubbleSort.executor": "Run",
@@ -87,6 +88,7 @@
     "Application.DateTimeToSeconds.executor": "Run",
     "Application.DateTimeToSecondsConventer.executor": "Run",
     "Application.DecMain.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.DigitSum.executor": "Run",
     "Application.DivisionApp.executor": "Run",
     "Application.ErrorHandlingApp.executor": "Run",
@@ -97,6 +99,7 @@
     "Application.FactorialRecursive.executor": "Run",
     "Application.FileApp.executor": "Run",
     "Application.FileInOutApp.executor": "Run",
+    "Application.FilterMain.executor": "Run",
     "Application.FirstDigitFinder.executor": "Run",
     "Application.FlexibleFor.executor": "Run",
     "Application.ForSumMulApp.executor": "Run",
@@ -129,6 +132,7 @@
     "Application.MinMax.executor": "Run",
     "Application.Mul10.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.MyQueueApp.executor": "Run",
     "Application.NamesScanning.executor": "Run",
     "Application.NullPointerExceptionApp.executor": "Run",
     "Application.NumDenominator.executor": "Run",
@@ -160,6 +164,7 @@
     "Application.Sentinel2.executor": "Run",
     "Application.SixDigitApp.executor": "Run",
     "Application.SnowingApp.executor": "Run",
+    "Application.Sorting.executor": "Run",
     "Application.SpecialFor.executor": "Run",
     "Application.SpecialWhileTypes.executor": "Run",
     "Application.SplitStr.executor": "Run",
@@ -201,7 +206,9 @@
     "Application.gr.aueb.cf.ch17.knight.Main.executor": "Run",
     "Application.gr.aueb.cf.ch19.Main.executor": "Run",
     "Application.gr.aueb.cf.ch19.deq_queue.DecMain.executor": "Run",
+    "Application.gr.aueb.cf.ch19.maps.Main.executor": "Run",
     "Application.gr.aueb.cf.ch19.singly_Linked_List.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch19.sorting.Main.executor": "Run",
     "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
     "Application.gr.aueb.cf.homework.MathHelper.Main.executor": "Run",
     "Application.gr.aueb.cf.homework.Point.Main.executor": "Run",
@@ -225,17 +232,19 @@
       <recent name="D:\ΜΑΡΙΟΣ\IdeaProjects\CodingFactoryTestbed\src\gr\aueb\cf\ch16\skeletal2" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.homework.Studie" />
       <recent name="gr.aueb.cf.homework.logger" />
       <recent name="gr.aueb.cf.ch13.exceptions" />
       <recent name="gr.aueb.cf.ch14" />
       <recent name="gr.aueb.cf.Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.ch19.streams" />
       <recent name="gr.aueb.cf.ch19.deq_queue" />
       <recent name="gr.aueb.cf.ch15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gr.aueb.cf.ch19.deq_queue.DecMain">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk21.0.5_11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -250,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.deq_stack.DecMain" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.maps.Demo" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.deq_stack.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.MainGen" />
+    <configuration name="FilterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.streams.FilterMain" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.lists.MainList" />
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.streams.Sorting" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.lists.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.ch19.deq_queue.DecMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.deq_queue.DecMain" />
+    <configuration name="gr.aueb.cf.ch19.maps.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.maps.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.deq_queue.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.ch19.singly_Linked_List.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.singly_Linked_List.Main" />
+    <configuration name="gr.aueb.cf.ch19.sorting.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.sorting.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.singly_Linked_List.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch19.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gr.aueb.cf.ch19.deq_queue.DecMain" />
-        <item itemvalue="Application.DecMain" />
-        <item itemvalue="Application.MainList" />
-        <item itemvalue="Application.gr.aueb.cf.ch19.singly_Linked_List.Main" />
-        <item itemvalue="Application.MainGen" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.gr.aueb.cf.ch19.maps.Main" />
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.FilterMain" />
+        <item itemvalue="Application.gr.aueb.cf.ch19.sorting.Main" />
       </list>
     </recent_temporary>
   </component>
