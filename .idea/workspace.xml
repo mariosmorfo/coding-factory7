@@ -82,9 +82,12 @@
     "Application.BubbleSort.executor": "Run",
     "Application.BufferedReaderApp.executor": "Run",
     "Application.CalculatorApp.executor": "Run",
+    "Application.CapturingRegEx.executor": "Run",
     "Application.CharInApp.executor": "Run",
     "Application.CharPrintApp.executor": "Run",
     "Application.CounterApp.executor": "Run",
+    "Application.DateMatcher.executor": "Run",
+    "Application.DateMatcher2.executor": "Run",
     "Application.DateTimeToSeconds.executor": "Run",
     "Application.DateTimeToSecondsConventer.executor": "Run",
     "Application.DecMain.executor": "Run",
@@ -106,6 +109,7 @@
     "Application.FrogJumpApp.executor": "Run",
     "Application.FrogJumpsApp.executor": "Run",
     "Application.GradesApp.executor": "Run",
+    "Application.GreedyPattern.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HomeWork.executor": "Run",
     "Application.HomeWorkIntApp.executor": "Run",
@@ -124,6 +128,7 @@
     "Application.Main3.executor": "Run",
     "Application.MainGen.executor": "Run",
     "Application.MainList.executor": "Run",
+    "Application.MainProduct.executor": "Run",
     "Application.MappedApp.executor": "Run",
     "Application.MathDemo.executor": "Run",
     "Application.MenuApp.executor": "Run",
@@ -134,6 +139,7 @@
     "Application.MultiplicationTable.executor": "Run",
     "Application.MyQueueApp.executor": "Run",
     "Application.NamesScanning.executor": "Run",
+    "Application.NoneCapturingRegEx.executor": "Run",
     "Application.NullPointerExceptionApp.executor": "Run",
     "Application.NumDenominator.executor": "Run",
     "Application.NumberFormatExceptionApp.executor": "Run",
@@ -151,6 +157,8 @@
     "Application.Project3.executor": "Run",
     "Application.RandomApp.executor": "Run",
     "Application.ReadNamesApp.executor": "Run",
+    "Application.RegExMain.executor": "Run",
+    "Application.ReluctantPattern.executor": "Run",
     "Application.ReplaceAppElement.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.RightTriangleApp.executor": "Run",
@@ -239,12 +247,13 @@
       <recent name="gr.aueb.cf.Projects" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gr.aueb.cf.ch20" />
       <recent name="gr.aueb.cf.ch19.streams" />
       <recent name="gr.aueb.cf.ch19.deq_queue" />
       <recent name="gr.aueb.cf.ch15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.CapturingRegEx">
     <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk21.0.5_11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -259,12 +268,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.maps.Demo" />
+    <configuration name="CapturingRegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.CapturingRegEx" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.maps.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.streams.FilterMain" />
+    <configuration name="DateMatcher2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.DateMatcher2" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.streams.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.streams.Sorting" />
+    <configuration name="GreedyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.GreedyPattern" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.streams.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.ch19.maps.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.maps.Main" />
+    <configuration name="NoneCapturingRegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.NoneCapturingRegEx" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.maps.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +320,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.ch19.sorting.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch19.sorting.Main" />
+    <configuration name="ReluctantPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.ReluctantPattern" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch19.sorting.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.gr.aueb.cf.ch19.maps.Main" />
-        <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.FilterMain" />
-        <item itemvalue="Application.gr.aueb.cf.ch19.sorting.Main" />
+        <item itemvalue="Application.CapturingRegEx" />
+        <item itemvalue="Application.ReluctantPattern" />
+        <item itemvalue="Application.NoneCapturingRegEx" />
+        <item itemvalue="Application.GreedyPattern" />
+        <item itemvalue="Application.DateMatcher2" />
       </list>
     </recent_temporary>
   </component>
