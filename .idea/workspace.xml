@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,6 +61,8 @@
   "keyToString": {
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Application.Acces.executor": "Run",
+    "Application.AccountMain.executor": "Run",
+    "Application.ActorMain.executor": "Run",
     "Application.AddApp.executor": "Run",
     "Application.AnimalMain.executor": "Run",
     "Application.Arithmetic1.executor": "Run",
@@ -110,6 +112,7 @@
     "Application.FrogJumpsApp.executor": "Run",
     "Application.GradesApp.executor": "Run",
     "Application.GreedyPattern.executor": "Run",
+    "Application.HelloSwing.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.HomeWork.executor": "Run",
     "Application.HomeWorkIntApp.executor": "Run",
@@ -144,6 +147,7 @@
     "Application.NumDenominator.executor": "Run",
     "Application.NumberFormatExceptionApp.executor": "Run",
     "Application.ParseIntApp.executor": "Run",
+    "Application.PasswordAssertion.executor": "Run",
     "Application.PdfBufferedCopyApp.executor": "Run",
     "Application.PdfCopyApp.executor": "Run",
     "Application.PowerApp.executor": "Run",
@@ -157,6 +161,7 @@
     "Application.Project3.executor": "Run",
     "Application.RandomApp.executor": "Run",
     "Application.ReadNamesApp.executor": "Run",
+    "Application.RegExApp.executor": "Run",
     "Application.RegExMain.executor": "Run",
     "Application.ReluctantPattern.executor": "Run",
     "Application.ReplaceAppElement.executor": "Run",
@@ -202,6 +207,7 @@
     "Application.UpperLowerCaseApp.executor": "Run",
     "Application.VoteEligible.executor": "Run",
     "Application.YearsToDays.executor": "Run",
+    "Application.ZeroLengthAssertion.executor": "Run",
     "Application.enCodeKeyApp.executor": "Run",
     "Application.encodingApp.executor": "Run",
     "Application.gr.aueb.cf.ch12.Main.executor": "Run",
@@ -217,19 +223,21 @@
     "Application.gr.aueb.cf.ch19.maps.Main.executor": "Run",
     "Application.gr.aueb.cf.ch19.singly_Linked_List.Main.executor": "Run",
     "Application.gr.aueb.cf.ch19.sorting.Main.executor": "Run",
+    "Application.gr.aueb.cf.ch22_swingfrontend.Main.executor": "Run",
     "Application.gr.aueb.cf.ch6.SwapApp.executor": "Run",
     "Application.gr.aueb.cf.homework.MathHelper.Main.executor": "Run",
     "Application.gr.aueb.cf.homework.Point.Main.executor": "Run",
     "Application.gr.aueb.cf.homework.bankapp.model.Main.executor": "Run",
     "Application.gr.aueb.cf.homework.model.Main.executor": "Run",
+    "Application.gr.aueb.cf.homework.model2.Main.executor": "Run",
     "Application.gr.aueb.cf.homework.model_shape.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed/src/gr/aueb/cf/ch16/skeletal2",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "copyright"
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -253,7 +261,20 @@
       <recent name="gr.aueb.cf.ch15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CapturingRegEx">
+  <component name="RunManager" selected="Application.gr.aueb.cf.ch22_swingfrontend.Main">
+    <configuration name="ActorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.enums.ActorMain" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch20.enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk21.0.5_11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -268,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CapturingRegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.CapturingRegEx" />
+    <configuration name="HelloSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch22_swingfrontend.HelloSwing" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch22_swingfrontend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateMatcher2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.DateMatcher2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.lambdas.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch20.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.GreedyPattern" />
+    <configuration name="gr.aueb.cf.ch22_swingfrontend.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch22_swingfrontend.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch22_swingfrontend.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,25 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoneCapturingRegEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.NoneCapturingRegEx" />
+    <configuration name="gr.aueb.cf.homework.model2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.model2.Main" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReluctantPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.ReluctantPattern" />
-      <module name="CodingFactoryTestbed" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.*" />
+          <option name="PATTERN" value="gr.aueb.cf.homework.model2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CapturingRegEx" />
-        <item itemvalue="Application.ReluctantPattern" />
-        <item itemvalue="Application.NoneCapturingRegEx" />
-        <item itemvalue="Application.GreedyPattern" />
-        <item itemvalue="Application.DateMatcher2" />
+        <item itemvalue="Application.gr.aueb.cf.ch22_swingfrontend.Main" />
+        <item itemvalue="Application.HelloSwing" />
+        <item itemvalue="Application.gr.aueb.cf.homework.model2.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ActorMain" />
       </list>
     </recent_temporary>
   </component>
