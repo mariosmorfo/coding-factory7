@@ -87,15 +87,19 @@
     "Application.CapturingRegEx.executor": "Run",
     "Application.CharInApp.executor": "Run",
     "Application.CharPrintApp.executor": "Run",
+    "Application.ConcurrentDateTimeServerApp.executor": "Run",
     "Application.CounterApp.executor": "Run",
     "Application.DateMatcher.executor": "Run",
     "Application.DateMatcher2.executor": "Run",
+    "Application.DateTimeClient.executor": "Run",
     "Application.DateTimeToSeconds.executor": "Run",
     "Application.DateTimeToSecondsConventer.executor": "Run",
     "Application.DecMain.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DigitSum.executor": "Run",
     "Application.DivisionApp.executor": "Run",
+    "Application.EchoCli.executor": "Run",
+    "Application.EchoServerApp.executor": "Run",
     "Application.ErrorHandlingApp.executor": "Run",
     "Application.EuroUsdConventer.executor": "Run",
     "Application.EvenApp.executor": "Run",
@@ -123,6 +127,7 @@
     "Application.IndexOutOFBoundsExceptions.executor": "Run",
     "Application.InitialsApp.executor": "Run",
     "Application.IsEvenApp.executor": "Run",
+    "Application.IterativeDayTimeServer.executor": "Run",
     "Application.JOME.executor": "Run",
     "Application.JaggedArray.executor": "Run",
     "Application.KnightMain.executor": "Run",
@@ -233,11 +238,18 @@
     "Application.gr.aueb.cf.homework.model_shape.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed/src/gr/aueb/cf/ch16/skeletal2",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "D:/ΜΑΡΙΟΣ/IdeaProjects/CodingFactoryTestbed",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -261,20 +273,7 @@
       <recent name="gr.aueb.cf.ch15" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.gr.aueb.cf.ch22_swingfrontend.Main">
-    <configuration name="ActorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.enums.ActorMain" />
-      <module name="CodingFactoryTestbed" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EchoCli">
     <configuration name="Armstrong" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk21.0.5_11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -289,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch22_swingfrontend.HelloSwing" />
+    <configuration name="ConcurrentDateTimeServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch26.ConcurrentDateTimeServerApp" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch22_swingfrontend.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch20.lambdas.Main" />
+    <configuration name="DateTimeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch26.DateTimeClient" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch20.lambdas.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.ch22_swingfrontend.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch22_swingfrontend.Main" />
+    <configuration name="EchoCli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch26.EchoCli" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.ch22_swingfrontend.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,12 +327,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gr.aueb.cf.homework.model2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.homework.model2.Main" />
+    <configuration name="EchoServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch26.EchoServerApp" />
       <module name="CodingFactoryTestbed" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.cf.homework.model2.*" />
+          <option name="PATTERN" value="gr.aueb.cf.ch26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterativeDayTimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.cf.ch26.IterativeDayTimeServer" />
+      <module name="CodingFactoryTestbed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.cf.ch26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gr.aueb.cf.ch22_swingfrontend.Main" />
-        <item itemvalue="Application.HelloSwing" />
-        <item itemvalue="Application.gr.aueb.cf.homework.model2.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ActorMain" />
+        <item itemvalue="Application.EchoCli" />
+        <item itemvalue="Application.EchoServerApp" />
+        <item itemvalue="Application.DateTimeClient" />
+        <item itemvalue="Application.ConcurrentDateTimeServerApp" />
+        <item itemvalue="Application.IterativeDayTimeServer" />
       </list>
     </recent_temporary>
   </component>
